@@ -1,16 +1,16 @@
 {
-  "name": "comparity-2",
+  "name": "treefrog-universal",
   "version": "0.0.0",
-  "description": "comparity on an angular2 stack",
-  "homepage": "https://comparityins.com",
+  "description": "treefrog universal",
+  "homepage": "https://cali-style.com",
   "author": {
-    "name": "Greg Pazo",
-    "email": "gregpazo@gmail.com",
-    "url": "https://gregpazo.com"
+  "name": "Greg Pazo",
+  "email": "greg@cali-style.com",
+  "url": "https://cali-style.com"
   },
   "main": "./dist/server/express-bundle.js",
   "keywords": [
-    "comparityins.com"
+  "cali-style.com"
   ],
   "dependencies": {
     "@angular/common": "2.1.0",
